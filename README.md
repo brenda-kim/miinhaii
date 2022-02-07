@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @miinhaii
-- 👀 I’m interested in web development 
-- 🌱 I’m currently working on pivoting careers
+- 👀 I’m interested in pivoting careers from pharmacy to web development 
 - 📫 How to reach me: linkedin.com/in/k-brenda
 
 <!---
